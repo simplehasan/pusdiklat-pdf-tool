@@ -4,3 +4,4 @@ dist
 output
 *.xlsx
 *.exe
+*.pdf
