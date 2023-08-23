@@ -3,3 +3,4 @@ dist
 *.spec
 output
 *.xlsx
+*.exe
