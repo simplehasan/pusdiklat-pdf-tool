@@ -5,3 +5,4 @@ output
 *.xlsx
 *.exe
 *.pdf
+__pycache__/
